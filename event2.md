@@ -2,7 +2,7 @@
 title: EVENTS NAME
 feature_text: |
   Jigyasa
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/IMG-20190724-WA0003.jpg"
 excerpt: "Jigyasa"
 aside: false
 ---
