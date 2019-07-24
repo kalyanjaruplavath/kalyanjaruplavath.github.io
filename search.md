@@ -1,6 +1,6 @@
----
-title: Search
-excerpt: "Search for a page or post you're looking for"
----
+[<span style="font-family:Papyrus; font-size:4em;color:red;">Treasure HUNT</span>](https://david.darn.es "A link")
+this is descript tion of event 1
 
- {% include site-search.html %} 
+
+[<span style="font-family:Papyrus; font-size:4em;color:red;">Treasure HUNT</span>](https://david.darn.es "A link")
+this is descript of event 2
