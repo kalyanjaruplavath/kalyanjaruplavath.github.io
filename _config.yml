@@ -116,7 +116,9 @@ navigation_header:
   url: /blog/
 - title: Categories
   url: /categories/
-- title: Search
+- title: event2
+  url: /search/
+- title: Seewarch
   url: /search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
