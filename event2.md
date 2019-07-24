@@ -1,9 +1,9 @@
 ---
-title: EVENTS NAME
+title: IITK Quiz
 feature_text: |
-  Jigyasa
+  
 feature_image: "/IMG-20190724-WA0003.jpg"
-excerpt: "Jigyasa"
+excerpt: ""
 aside: false
 ---
 
