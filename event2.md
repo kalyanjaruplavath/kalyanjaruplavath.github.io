@@ -14,7 +14,7 @@ aside: false
 
 <small>Imagine something and transcribe your abstract thought into a bespoke structure sculpted out of virtual clay spheres.A theme will be given on the spot, and using the "True-Sculpt" app (link given below), you have to create something relevant to the theme.</small>
 
-[<span style="color:red">Register Here</span>](https://david.darn.es "A link")
+[<span  style="font-family:Papyrus; font-size:4em;color:red";>Register Here</span>](https://david.darn.es "A link")
 
 
 
