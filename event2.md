@@ -1,10 +1,10 @@
 ---
-title: Elements
+title: EVENTS NAME
 feature_text: |
-  A demo of Markdown and HTML includes
+  Jigyasa
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
-aside: true
+excerpt: "Jigyasa"
+aside: false
 ---
 
 
