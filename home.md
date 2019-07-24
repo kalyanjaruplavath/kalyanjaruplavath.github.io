@@ -1,7 +1,9 @@
-<!DOCTYPE html>
-<html>
-<body background="om 1.jpg">
-<h1>hello world</h1>
-<h2>kalyan</h2>
-</body>
-</html>
+---
+title: ""
+feature_text: |
+  
+feature_image: "/IMG-20190724-WA0003.jpg"
+excerpt: ""
+aside: false
+---
+ 
